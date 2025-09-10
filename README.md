@@ -1,5 +1,6 @@
 # networkxgraphs
 Short project on learning how to use the NetworkX library to complete the game.
+
 Game rules: 
  - Choose a random circle.
  - Go to the closest square.
